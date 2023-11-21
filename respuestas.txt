@@ -7,3 +7,4 @@ h. git checkout main y despues un git merge primera
 i. git branch segunda y git checkout segunda
 j. grep -A 2010 2019 Alumnos.txt
 K. cat Alumnos.txt | grep J
+l. grep 0.0.0 du.txt
