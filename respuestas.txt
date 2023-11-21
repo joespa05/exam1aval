@@ -4,3 +4,4 @@ e.
 f. lo que he hecho es un cat Alumnos.txt | grep Gonzalez
 g. ya he anotado la orden
 h. git checkout main y despues un git merge primera
+i. git branch segunda y git checkout segunda
