@@ -1,1 +1,2 @@
-D. hemos hecho un docker attach SI y despues hemos creado una carpeta con el mkdir Examen y para crear el archivo nano.
+C. hemos hecho un docker attach SI y despues hemos creado una carpeta con el mkdir Examen y para crear el archivo nano.
+D. lo que hemos hecho desde la carpeta de examen es hacer un cp SI.txt si y asi se han copiado los archivos.
