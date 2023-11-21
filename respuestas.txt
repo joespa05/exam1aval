@@ -1,0 +1,1 @@
+D. hemos hecho un docker attach SI y despues hemos creado una carpeta con el mkdir Examen y para crear el archivo nano.
